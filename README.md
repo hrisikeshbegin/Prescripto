@@ -45,11 +45,3 @@ For detailed installation and running instructions, see the tutorial PDF:
   - ESLint, Prettier, nodemon (backend development)
 
 ---
-
-## Contact
-
-**Your Name**  
-- GitHub: [@your-username](https://github.com/your-username)  
-- Email: your.email@example.com  
-
-Feel free to open an issue or submit a pull request.  
