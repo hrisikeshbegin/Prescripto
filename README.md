@@ -1,4 +1,4 @@
-# Prescripto‑Full‑Stack
+# PRESCRIPTO
 
 > A prescription management application with a Backend API, User‑Facing Frontend, and Admin Dashboard.
 
