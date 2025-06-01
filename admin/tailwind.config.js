@@ -16,4 +16,4 @@ export default {
   },
   plugins: [],
 }
-/*error fixrd!*/
+/*error fixed!*/
